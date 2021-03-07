@@ -1,0 +1,16 @@
+﻿  pch.cpp
+  Board.cpp
+  Char.cpp
+  Game.cpp
+  Master.cpp
+d:\utad\1º ano\2º semestre\lab\sopa_de_letras\sopa_de_letras\master.cpp(10): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Player.cpp
+  Point.cpp
+  Rooky.cpp
+d:\utad\1º ano\2º semestre\lab\sopa_de_letras\sopa_de_letras\rooky.cpp(11): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Sopa_de_letras.cpp
+  Word.cpp
+  Generating Code...
+d:\utad\1º ano\2º semestre\lab\sopa_de_letras\sopa_de_letras\rooky.cpp(119): warning C4715: 'Rooky::load': not all control paths return a value
+d:\utad\1º ano\2º semestre\lab\sopa_de_letras\sopa_de_letras\master.cpp(118): warning C4715: 'Master::load': not all control paths return a value
+  Sopa_de_letras.vcxproj -> D:\utad\1º Ano\2º Semestre\lab\Sopa_de_letras\Debug\Sopa_de_letras.exe
